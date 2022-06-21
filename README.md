@@ -1,6 +1,6 @@
 # Web Comic Reader
 Web Based cbr/cbz/cbt comic book reader. Written in HTML5 and Javascript (with jQuery) <br>
-Demo: https://afzafri.github.io/Web-Comic-Reader/
+Demo: https://askhug434.github.io/sample/
 
 # Screenshots
 <img src="https://cloud.githubusercontent.com/assets/14824387/25302185/e8353cee-276a-11e7-9e78-d58eac26b16f.png" width="500px"/><br>
